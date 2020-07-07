@@ -1,0 +1,125 @@
+.header{
+	background-color: rgb(255, 255, 255);
+display: flex;
+justify-content: space-between;
+}
+.TSgri{
+    background-color: #F0F0F0;
+    width: 910;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    
+}
+.TSI1{border: black;
+
+    border: ridge;
+    
+    width: 46;
+    height: 748;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-collapse: collapse;
+
+}
+.TSI2{
+    border: black;
+    border: ridge;
+    width: 203;
+    height: 748;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-collapse: collapse;
+
+}
+.TSI3{
+    border: black;
+
+    border: ridge;
+    width: 127;
+    height: 748;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-collapse: collapse;
+
+}
+.TSI4{
+    border: black;
+
+    border: ridge;
+    width: 434;
+    height: 748;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-collapse: collapse;
+}
+
+.TSR1{
+    border: ridge;
+
+    width: 810;
+    height: 44;
+    display: flex;
+    justify-content: center;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.grid{
+    background-color: #F0F0F0;
+	display: flex;
+flex-wrap: wrap;
+justify-content: space-evenly;
+}
+.footer{
+    background-color: #F0F0F0;
+	display: flex;
+	justify-content: flex-end;
+}
+
+.Equal{
+
+    background-color: rgb(254, 192, 21);
+    display: flex;
+    align-content: space-between;
+    justify-content: space-around;
+}
+.Equalizer{
+
+    background-color: rgb(215, 235, 246);
+    display: flex;
+    height: 450px;
+    width: 200px;
+flex-direction: column;
+    align-content: space-between;
+
+
+}
+.Equalizer{
+
+    background-color: rgb(215, 235, 246);
+    display: flex;
+
+    align-content: space-between;
+}
